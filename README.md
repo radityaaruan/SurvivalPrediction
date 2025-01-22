@@ -44,3 +44,11 @@ This project explores a machine learning workflow to build, train, and evaluate 
 2. Install the required packages using:
    ```bash
    pip install -r requirements.txt
+
+---
+Dataset= 'https://www.kaggle.com/code/mirzahasnine/breast-cancer-predection/input?scriptVersionId=103045386'
+
+Hugging Face= 'https://huggingface.co/spaces/radityaruan/M2'
+
+
+
