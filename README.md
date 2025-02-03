@@ -51,7 +51,7 @@ Proyek ini terbagi dalam **dua Jupyter Notebook utama**:
 ---
 
 ## ⚡ **Memulai Proyek Ini**  
-![Banner3](FlowChart.png) 
+![Predict](Predict.png) 
 
 
 ### 🛠 **Prasyarat**  
