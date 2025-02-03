@@ -51,6 +51,8 @@ Proyek ini terbagi dalam **dua Jupyter Notebook utama**:
 ---
 
 ## ⚡ **Memulai Proyek Ini**  
+![Banner3](FlowChart.png) 
+
 
 ### 🛠 **Prasyarat**  
 - 🐍 Python **3.9** atau lebih tinggi  
