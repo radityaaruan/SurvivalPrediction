@@ -1,55 +1,63 @@
-# Project Overview
+# 🚀 Machine Learning Workflow: SVM Classifier  
 
-This project explores a machine learning workflow to build, train, and evaluate a classification model, focusing on Support Vector Machines (SVM). The project includes data preprocessing, model training, hyperparameter tuning, evaluation, and inference. It is divided into two Jupyter Notebooks:
+Selamat datang di proyek **Machine Learning Workflow** yang berfokus pada **Support Vector Machines (SVM)**! 🎯  
+Di sini, kita akan membangun, melatih, dan mengevaluasi model klasifikasi dengan teknik yang efektif.  
 
-- **P1M2_Joni.ipynb**: Main notebook covering model training, evaluation, and analysis.
-- **P1M2_Joni_inf.ipynb**: Inference notebook for deploying the model on new data.
+📌 **Highlights:**  
+✅ Data Preprocessing & Feature Engineering  
+✅ Model Training & Hyperparameter Tuning  
+✅ Evaluasi dengan Metrics & ROC Curve  
+✅ Model Deployment & Inference  
 
-## Key Features
+---  
 
-1. **Data Preprocessing**:
-   - Handling missing values and encoding categorical variables.
-   - Splitting the dataset into training and testing subsets.
+## 📖 **Struktur Proyek**  
+Proyek ini terbagi dalam **dua Jupyter Notebook utama**:  
 
-2. **Model Development**:
-   - Training an SVM classifier.
-   - Performing hyperparameter tuning to optimize model performance.
-
-3. **Evaluation Metrics**:
-   - Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
-   - Detailed ROC curve analysis for both training and testing datasets.
-
-4. **Model Insights**:
-   - AUC scores of 0.87 (train) and 0.85 (test) indicate strong generalization and no significant overfitting.
-   - The model reliably distinguishes between classes.
-
-5. **Model Deployment**:
-   - Saving the trained SVM model using Python's `pickle` library.
-   - Deployment-ready inference through the `P1M2_Joni_inf.ipynb` notebook.
-
-6. **Conceptual Discussions**:
-   - Explanation of key concepts such as Bagging, Boosting, Random Forest, and Cross-Validation.
-   - Detailed comparisons and practical implications of these concepts.
+📂 **`P1M2_Joni.ipynb`** → Notebook utama untuk pelatihan & evaluasi model.  
+📂 **`P1M2_Joni_inf.ipynb`** → Notebook inferensi untuk menerapkan model pada data baru.  
 
 ---
 
-## Getting Started
+## ✨ **Fitur Utama**  
 
-### Prerequisites
-- Python 3.9 or higher.
-- Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `pickle`.
+### 🛠 **1. Data Preprocessing**  
+🔹 Menangani nilai yang hilang & encoding variabel kategorikal  
+🔹 Membagi dataset menjadi subset pelatihan & pengujian  
 
-### Installation
-1. Clone this repository.
-2. Install the required packages using:
+### 🎯 **2. Model Development**  
+🧠 Melatih **Support Vector Machine (SVM) Classifier**  
+📌 Hyperparameter tuning untuk optimasi model  
+
+### 📊 **3. Evaluasi Model**  
+📈 **Metrics yang digunakan:**  
+✅ **Akurasi, Precision, Recall, F1-Score**  
+✅ **ROC-AUC Score & Analisis Kurva ROC**  
+
+### 🔍 **4. Model Insights**  
+📊 AUC Score:  
+- **Training** → `0.87`  
+- **Testing** → `0.85` (Generalization bagus, overfitting minimal)  
+
+### 🚀 **5. Model Deployment**  
+📦 **Simpan model** dengan Python’s `pickle` library  
+⚡ **Inference siap pakai** via `P1M2_Joni_inf.ipynb`  
+
+### 📚 **6. Diskusi Konseptual**  
+📖 **Apa yang dipelajari?**  
+🔹 **Bagging, Boosting, Random Forest, Cross-Validation**  
+🔹 Perbandingan & implementasi praktis dari setiap metode  
+
+---
+
+## ⚡ **Memulai Proyek Ini**  
+
+### 🛠 **Prasyarat**  
+- 🐍 Python **3.9** atau lebih tinggi  
+- 📦 Library yang diperlukan: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `pickle`  
+
+### 📥 **Instalasi**  
+1️⃣ Clone repository ini:  
    ```bash
-   pip install -r requirements.txt
-
----
-## Hugging Face Visualization
-   
-      https://huggingface.co/spaces/radityaruan/M2
-
-
-
-
+   git clone https://github.com/username/repository.git
+   cd repository
