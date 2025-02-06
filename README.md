@@ -43,11 +43,6 @@ Proyek ini terbagi dalam **dua Jupyter Notebook utama**:
 📦 **Simpan model** dengan Python’s `pickle` library  
 ⚡ **Inference siap pakai** via `P1M2_Joni_inf.ipynb`  
 
-### 📚 **6. Diskusi Konseptual**  
-📖 **Apa yang dipelajari?**  
-🔹 **Bagging, Boosting, Random Forest, Cross-Validation**  
-🔹 Perbandingan & implementasi praktis dari setiap metode  
-
 ---
 
 ## ⚡ **Memulai Proyek Ini**  
